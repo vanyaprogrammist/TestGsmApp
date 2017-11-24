@@ -1,0 +1,7 @@
+C:\VsProjects\TetsGsmApp\TetsGsmApp\bin\Debug\TetsGsmApp.exe.config
+C:\VsProjects\TetsGsmApp\TetsGsmApp\bin\Debug\TetsGsmApp.exe
+C:\VsProjects\TetsGsmApp\TetsGsmApp\bin\Debug\TetsGsmApp.pdb
+C:\VsProjects\TetsGsmApp\TetsGsmApp\obj\Debug\TetsGsmApp.csprojResolveAssemblyReference.cache
+C:\VsProjects\TetsGsmApp\TetsGsmApp\obj\Debug\TetsGsmApp.csproj.CoreCompileInputs.cache
+C:\VsProjects\TetsGsmApp\TetsGsmApp\obj\Debug\TetsGsmApp.exe
+C:\VsProjects\TetsGsmApp\TetsGsmApp\obj\Debug\TetsGsmApp.pdb
